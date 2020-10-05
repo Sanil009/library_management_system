@@ -1,0 +1,10 @@
+One Night in Istanbul,Nicky Allt,0,$10
+The Famous Kopities,Bill Shankly,20,$15
+The Rolling Stones,Themes & Hudson,30,$3
+Harry Porter part 1,JK Rowling,15,$1.15
+Gulliver's Travel 1,Jonathan Swift,10,$2
+Learning Python Edn-5,Mark Lutz,35,$4
+Python Beginners,Michael Dawson,25,$3.4
+Harry Potter part 1,JK Rowling,30,$2
+Start With Why - 1,Simon Sinek,10,$1.5
+Programming With Python,John Smith,20,$1.5

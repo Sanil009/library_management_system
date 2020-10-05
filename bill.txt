@@ -1,0 +1,7 @@
+S.N: 1Full Name: Sanil Shrestha
+Book Name: One Night in Istanbul
+Book Author: Nicky Allt
+Quantity borrowed: 2
+Price: $10per unit
+Total price: $20.0Date: 2019-01-29 08:38:58.499397
+Time: 08:38:58
